@@ -5,6 +5,7 @@ Color Palette: B5C2B7 Ash Gray, 8C93A8 Cool Gray, 62466B English Violet, 45364B 
 html{
     background-color: #2D2327;
     width: 100%;
+    font-size: 16px;
 }
 
 header{
@@ -26,4 +27,7 @@ nav ul{
 
 nav li{
     display: inline-block;
+    font-size: 1.5rem;
+    padding-right: 25%;
+    margin-bottom: 0.5rem;
 }
