@@ -1,8 +1,17 @@
+/* 
+Color Palette: B5C2B7 Ash Gray, 8C93A8 Cool Gray, 62466B English Violet, 45364B English Violet(darker), 2D2327 Raisin Black
+*/
+
 html{
-    background-color: 235789;
+    background-color: #2D2327;
+}
+
+header{
+    background-color: #8C93A8
 }
 
 body{
-color: gray;
-margin: auto;
+    background-color: #B5C2B7;
+    margin: auto;
+    text-align: center;
 }
